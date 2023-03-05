@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "name": "John",
+      "surname": "Snow",
+      "phone": 996777888222,
+      "weeklyKPI": 44,
+      "monthlyKPI": 45
+    },
+    {
+      "name": "Sardar",
+      "surname": "Bektemirov",
+      "phone": "996555442234",
+      "weeklyKPI": "46",
+      "monthlyKPI": "67",
+      "id": 4
+    },
+    {
+      "name": "Eliza",
+      "surname": "Dzhunusova",
+      "phone": "996551877400",
+      "weeklyKPI": "100",
+      "monthlyKPI": "100",
+      "id": 5
+    },
+    {
+      "name": "Timophey",
+      "surname": "Babulehov",
+      "phone": "9996557148869",
+      "weeklyKPI": "10",
+      "monthlyKPI": "15",
+      "id": 6
+    },
+    {
+      "name": "Aidar",
+      "surname": "Bektemirov",
+      "phone": "996701776272",
+      "weeklyKPI": "45",
+      "monthlyKPI": "50",
+      "id": 7
+    }
+  ]
+}
